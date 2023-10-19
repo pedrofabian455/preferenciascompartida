@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PreferenciasCompatidas</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="chk_Recordar">Recordar</string>
+    <string name="btn_iniciar_sesion">Iniciar Sesion</string>
+    <string name="error_password">Contraseña invalida</string>
+
+</resources>
